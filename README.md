@@ -1,6 +1,6 @@
 # micro:bit Python SDK
 
-This module contains the set of commands that allow the micro:bit to communicate with the RVR.
+This module contains the set of commands that allow the micro:bit to communicate with the [Sphero RVR](https://www.sphero.com/rvr) robot.
 
 In order to use the SDK, `sphero.py` will need to be copied onto the micro:bit, along with the Python file to be run.
 
